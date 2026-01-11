@@ -1,7 +1,9 @@
-# 👋 Salut, je suis Yipenè Ange Cenacle Bado (Ange735) !
+# 👋 Salut, je suis Yipenè Ange Cenacle Bado 
 
 🎓 Étudiant en **Intelligence Artificielle et Technologies des Données**
+
 💻 Passionné par **programmation**, **cybersécurité**, **ML, Deep Learning & Computer Vision**, **data science** et **développement web**
+
 🌍 Basé au **Maroc, Meknès**
 
 ---
@@ -28,7 +30,7 @@ PHP | Python | Java | HTML5 | CSS3 | JavaScript | MySQL | Excel | MATLAB | Machi
 
 * Application web CRUD pour gérer **étudiants, livres, emprunts et évaluations**
 * Génération et téléchargement de **reçus**
-* [Voir le projet](https://github.com/Ange735/gestion_de_bibliotheque)
+* [Voir le projet](https://github.com/Ange735/gestion_de-_bibliotheque)
 
 ---
 
