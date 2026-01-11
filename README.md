@@ -8,11 +8,11 @@
 
 ## 📝 À propos de moi
 
-Actuellement en première année du cycle ingénieur en Intelligence Artificielle et Technologies des Données à l’ENSA Meknès, je suis passionné par tout ce qui touche à l’IA, allant du prétraitement des données au Machine Learning, Deep Learning et Computer Vision.
+Actuellement en première année du cycle ingénieur en **Intelligence Artificielle et Technologies des Données** à l’ENSA Meknès, je suis passionné par tout ce qui touche à l’IA, allant du **prétraitement des données** au **Machine Learning**, **Deep Learning** et **Computer Vision**.
 
-Parallèlement à ma formation académique en Intelligence Artificielle, je développe également un fort intérêt pour la cybersécurité, un domaine que j’aime explorer en profondeur. De plus, je pratique le design graphique, ce qui me permet de constituer un ensemble de compétences variées et de renforcer ma polyvalence.
+Parallèlement à ma formation académique en Intelligence Artificielle, je développe également un fort intérêt pour la **cybersécurité**, un domaine que j’aime explorer en profondeur. De plus, je pratique le **design graphique**, ce qui me permet de constituer un ensemble de compétences variées et de renforcer ma polyvalence.
 
-Mon objectif est de contribuer à résoudre des problématiques réelles grâce à l’Intelligence Artificielle, en concevant des modèles intelligents capables d’automatiser des processus et de favoriser l’innovation, contribuant ainsi à un avenir plus efficace et durable.
+Mon objectif est de contribuer à résoudre des **problématiques réelles** grâce à l’Intelligence Artificielle, en concevant des modèles intelligents capables d’automatiser des processus et de favoriser l’innovation, contribuant ainsi à un avenir plus efficace et durable.
 
 ---
 
