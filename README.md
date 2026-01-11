@@ -34,14 +34,6 @@ PHP | Python | Java | HTML5 | CSS3 | JavaScript | MySQL | Excel | MATLAB | Machi
 
 ---
 
-## 📈 Statistiques GitHub
-
-![Ange735 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ange735&show_icons=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ange735&layout=compact&theme=radical)
-
-
----
-
 ## ✉️ Contact
 
 * LinkedIn : [Ange Bado](https://www.linkedin.com/in/tonprofil)
