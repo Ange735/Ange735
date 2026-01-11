@@ -30,7 +30,7 @@ PHP | Python | Java | HTML5 | CSS3 | JavaScript | MySQL | Excel | MATLAB | Machi
 
 * Application web CRUD pour gérer **étudiants, livres, emprunts et évaluations**
 * Génération et téléchargement de **reçus**
-* [Voir le projet](https://github.com/Ange735/gestion_de-_bibliotheque)
+* [Voir le projet](https://github.com/Ange735/gestion de- biblioth-que)
 
 ---
 
