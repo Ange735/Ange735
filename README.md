@@ -1,6 +1,15 @@
 <!-- Header -->
 <div align="center">
 
+```
+╔══════════════════════════════════════════════════════════╗
+║  > whoami                                                ║
+║  Yipenè Ange Cenacle Bado                                ║
+║  AI & Data Engineering Student  |  Security Enthusiast  ║
+║  ENSA Meknès, Morocco  |  Active                         ║
+╚══════════════════════════════════════════════════════════╝
+```
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=00000000&center=true&width=500&lines=Ingénieur+IA+en+formation...;Machine+Learning+%7C+Deep+Learning+%7C+CV;Cybersecurity+Explorer...;Build.+Break.+Learn.+Repeat.)](https://git.io/typing-svg)
 
 </div>
@@ -51,6 +60,16 @@ class Engineer:
 
 ## `> ls ./projects`
 
+```
+📂 projects/
+├── 📁 gestion_bibliotheque/     [PHP · MySQL · CRUD]
+│   ├── Gestion étudiants, livres & emprunts
+│   ├── Système de reçus téléchargeables
+│   └── → https://github.com/Ange735/gestion_de-_biblioth-que
+│
+└── 📁 [more incoming...]        [ML · CV · Security tools]
+```
+
 ---
 
 ## `> ping -c 1 me`
@@ -77,5 +96,9 @@ class Engineer:
 ---
 
 <div align="center">
+
+```
+[ ENSA Meknès · IATD3 · 2024/2025 ]
+```
 
 </div>
