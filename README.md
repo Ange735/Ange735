@@ -2,15 +2,15 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  > whoami                                                ║
-║  Yipenè Ange Cenacle Bado                                ║
-║  AI & Data Engineering Student  |  Security Enthusiast  ║
-║  ENSA Meknès, Morocco  |  Active                         ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  > whoami                                                    ║
+║  Yipenè Ange Cenacle Bado                                    ║
+║  AI & Data Engineering Student  |  ML · DL · Computer Vision║
+║  ENSA Meknès, Morocco  |  Active                             ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=00000000&center=true&width=500&lines=Ingénieur+IA+en+formation...;Machine+Learning+%7C+Deep+Learning+%7C+CV;Cybersecurity+Explorer...;Build.+Break.+Learn.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00BFFF&background=00000000&center=true&width=550&lines=Ingénieur+IA+en+formation...;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Data+Science;Training+models%2C+not+just+running+them.)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,42 +19,48 @@
 ## `> ./init_profile.sh`
 
 ```python
-class Engineer:
+class AIEngineer:
     def __init__(self):
-        self.name     = "Ange Bado"
-        self.school   = "ENSA Meknès — IATD3"
-        self.focus    = ["Artificial Intelligence", "Cybersecurity", "Data Science"]
-        self.stack    = ["Python", "Java", "PHP", "JavaScript"]
-        self.status   = "1ère année cycle ingénieur"
-        self.goal     = "Build intelligent systems that solve real-world problems"
+        self.name      = "Ange Bado"
+        self.school    = "ENSA Meknès — IATD3"
+        self.focus     = ["Machine Learning", "Deep Learning", "Computer Vision", "Data Science"]
+        self.stack     = ["Python", "Java", "PHP", "JavaScript"]
+        self.status    = "1ère année cycle ingénieur"
+        self.goal      = "Build intelligent systems that solve real-world problems"
+        self.interests = ["Neural Networks", "AI Ethics", "Cybersecurity", "Web Dev"]
 
     def current_learning(self):
-        return ["Deep Learning", "Computer Vision", "Ethical Hacking", "Web Dev"]
+        return {
+            "AI"  : ["Deep Learning", "Computer Vision", "NLP basics"],
+            "Dev" : ["Spring Boot", "REST APIs"],
+            "Sec" : ["Ethical Hacking (hobby)"]
+        }
 ```
 
 ---
 
 ## `> cat skills.json`
 
-### ⬡ Intelligence Artificielle & Data
+### 🤖 Intelligence Artificielle — *Core Focus*
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![Data Science](https://img.shields.io/badge/Data%20Science-0d1117?style=flat-square&logo=jupyter&logoColor=F37626)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0d1117?style=flat-square&logo=mathworks&logoColor=0076A8)
 
-### ⬡ Cybersécurité
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Kali](https://img.shields.io/badge/Kali%20Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94)
-![Security](https://img.shields.io/badge/Network%20Security-0d1117?style=flat-square&logo=hackthebox&logoColor=9FEF00)
-
-### ⬡ Développement
+### 💻 Développement
 ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+
+### 🔐 Cybersécurité — *Intérêt secondaire*
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Kali](https://img.shields.io/badge/Kali%20Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94)
+![Security](https://img.shields.io/badge/Network%20Security-0d1117?style=flat-square&logo=hackthebox&logoColor=9FEF00)
 
 ---
 
@@ -67,7 +73,7 @@ class Engineer:
 │   ├── Système de reçus téléchargeables
 │   └── → https://github.com/Ange735/gestion_de-_biblioth-que
 │
-└── 📁 [more incoming...]        [ML · CV · Security tools]
+└── 📁 [more incoming...]        [ML · Deep Learning · CV]
 ```
 
 ---
@@ -88,8 +94,8 @@ class Engineer:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ange735&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ange735&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ange735&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ange735&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9)
 
 </div>
 
