@@ -1,101 +1,142 @@
-<!-- Header -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  > whoami                                                    ║
-║  Yipenè Ange Cenacle Bado                                    ║
-║  AI & Data Engineering Student  |  ML · DL · Computer Vision║
-║  ENSA Meknès, Morocco  |  Active                             ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1b2a,100:00bfff&height=200&section=header&text=Ange%20Bado&fontSize=70&fontColor=00BFFF&fontAlignY=38&desc=AI%20%26%20Data%20Engineering%20Student&descAlignY=58&descSize=20&descColor=7ecfff&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00BFFF&background=00000000&center=true&width=550&lines=Ingénieur+IA+en+formation...;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Data+Science;Training+models%2C+not+just+running+them.)](https://git.io/typing-svg)
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00BFFF&background=00000000&center=true&vCenter=true&random=false&width=600&height=60&lines=🤖+Machine+Learning+%7C+Deep+Learning;👁️+Computer+Vision+%7C+NLP;🔐+AI+Ethics+%7C+Cybersecurity;🚀+Building+intelligent+systems...;📍+ENSA+Meknès+—+IATD3)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Profile Views + Social -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonprofil)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baocenacle80@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ange735)
+![Profile Views](https://komarev.com/ghpvc/?username=Ange735&style=for-the-badge&color=00bfff&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## `> ./init_profile.sh`
+## `$ whoami`
 
 ```python
-class AIEngineer:
+class AngeBado:
     def __init__(self):
-        self.name      = "Ange Bado"
-        self.school    = "ENSA Meknès — IATD3"
-        self.focus     = ["Machine Learning", "Deep Learning", "Computer Vision", "Data Science"]
-        self.stack     = ["Python", "Java", "PHP", "JavaScript"]
-        self.status    = "1ère année cycle ingénieur"
-        self.goal      = "Build intelligent systems that solve real-world problems"
-        self.interests = ["Neural Networks", "AI Ethics", "Cybersecurity", "Web Dev"]
+        self.name       = "Yipenè Ange Cenacle Bado"
+        self.alias      = "Ange"
+        self.school     = "ENSA Meknès — IATD3"
+        self.status     = "1ère année cycle ingénieur · 2024/2025"
+        self.focus      = ["Machine Learning", "Deep Learning", "Computer Vision"]
+        self.languages  = ["Python 🐍", "Java ☕", "PHP 🐘", "JavaScript ⚡"]
+        self.interests  = ["Neural Networks", "AI Ethics", "Ethical Hacking", "Web Dev"]
+        self.goal       = "Build intelligent systems that solve real-world problems 🌍"
 
-    def current_learning(self):
-        return {
-            "AI"  : ["Deep Learning", "Computer Vision", "NLP basics"],
-            "Dev" : ["Spring Boot", "REST APIs"],
-            "Sec" : ["Ethical Hacking (hobby)"]
-        }
+    def say_hi(self):
+        print("Bienvenue sur mon profil ! 👋")
+        print("Je suis passionné par l'IA et l'ingénierie des données.")
+        print("Toujours en train d'apprendre, de construire, d'explorer.")
 ```
 
 ---
 
-## `> cat skills.json`
-
-### 🤖 Intelligence Artificielle — *Core Focus*
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
-![Data Science](https://img.shields.io/badge/Data%20Science-0d1117?style=flat-square&logo=jupyter&logoColor=F37626)
-![MATLAB](https://img.shields.io/badge/MATLAB-0d1117?style=flat-square&logo=mathworks&logoColor=0076A8)
-
-### 💻 Développement
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
-
-### 🔐 Cybersécurité — *Intérêt secondaire*
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Kali](https://img.shields.io/badge/Kali%20Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94)
-![Security](https://img.shields.io/badge/Network%20Security-0d1117?style=flat-square&logo=hackthebox&logoColor=9FEF00)
-
----
-
-## `> ls ./projects`
-
-```
-📂 projects/
-├── 📁 gestion_bibliotheque/     [PHP · MySQL · CRUD]
-│   ├── Gestion étudiants, livres & emprunts
-│   ├── Système de reçus téléchargeables
-│   └── → https://github.com/Ange735/gestion_de-_biblioth-que
-│
-└── 📁 [more incoming...]        [ML · Deep Learning · CV]
-```
-
----
-
-## `> ping -c 1 me`
+## `$ cat /skills/ai.json` 🤖
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ange%20Bado-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/tonprofil)
-[![Gmail](https://img.shields.io/badge/Email-baocenacle80@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:baocenacle80@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ange735-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Ange735)
+### — Intelligence Artificielle —
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![MATLAB](https://img.shields.io/badge/MATLAB-0d1117?style=for-the-badge&logo=mathworks&logoColor=0076A8)
+
+### — Développement Web & Backend —
+
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+### — Cybersécurité & Systèmes —
+
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![Network Security](https://img.shields.io/badge/Network%20Security-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 
 </div>
 
 ---
 
-## `> stats --global`
+## `$ ls -la ./projects/` 📂
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ange735&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ange735&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9)
+| Projet | Stack | Description | Lien |
+|--------|-------|-------------|------|
+| 📚 **Gestion Bibliothèque** | `PHP` `MySQL` `CRUD` | Système complet de gestion d'étudiants, livres & emprunts avec reçus téléchargeables | [→ GitHub](https://github.com/Ange735/gestion_de-_biblioth-que) |
+| 🤖 **Projets ML/DL** | `Python` `TensorFlow` `CV` | En cours — Modèles de Deep Learning & Computer Vision | `coming soon...` |
+
+</div>
+
+---
+
+## `$ git log --stats` 📊
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ange735&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ange735&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&langs_count=8"/>
+
+<br/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ange735&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00BFFF&ring=00BFFF&fire=FF6F00&currStreakLabel=00BFFF&sideLabels=c9d1d9&dates=c9d1d9)
+
+</div>
+
+---
+
+## `$ top —processes` ⚡ *Ce sur quoi je travaille en ce moment*
+
+```
+📌  Deep Learning            ████████████░░░░  78%  [Active]
+📌  Computer Vision          ██████████░░░░░░  64%  [Active]
+📌  Spring Boot / REST API   ████████░░░░░░░░  50%  [Active]
+📌  NLP Basics               ██████░░░░░░░░░░  38%  [Learning]
+📌  Ethical Hacking (hobby)  ████░░░░░░░░░░░░  25%  [Hobby]
+```
+
+---
+
+## `$ ping -c 1 ange.bado` 📡
+
+<div align="center">
+
+```
+PING ange.bado — Réponse en cours...
+
+64 bytes from ange.bado: Toujours ouvert aux collaborations 🤝
+64 bytes from ange.bado: Projets ML/CV/DL bienvenus 🤖
+64 bytes from ange.bado: Open source & apprentissage 🌱
+64 bytes from ange.bado: Disponible pour discuter IA & Tech 💬
+
+--- Statistiques ---
+Passionné · Curieux · Déterminé
+```
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Me%20contacter%20sur%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonprofil)
+[![Email](https://img.shields.io/badge/M'envoyer%20un%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baocenacle80@gmail.com)
 
 </div>
 
@@ -103,8 +144,19 @@ class AIEngineer:
 
 <div align="center">
 
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ange735/Ange735/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ange735/Ange735/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ange735/Ange735/output/github-snake-dark.svg" />
+</picture>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:0d1b2a,100:000000&height=120&section=footer&animation=fadeIn"/>
+
 ```
-[ ENSA Meknès · IATD3 · 2024/2025 ]
+[ ENSA Meknès · IATD3 · 2024/2025 ]  ·  "Training models, not just running them."
 ```
 
 </div>
