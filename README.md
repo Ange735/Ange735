@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1b2a,100:00bfff&height=200&section=header&text=Ange%20Bado&fontSize=70&fontColor=00BFFF&fontAlignY=38&desc=AI%20%26%20Data%20Engineering%20Student&descAlignY=58&descSize=20&descColor=7ecfff&animation=fadeIn" />
+<!-- Animated Header -->
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=100&lines=Ange+Bado+%7C+AI+Engineer;ENSA+Meknès+—+IATD3;Machine+Learning+%7C+Deep+Learning)
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00BFFF&background=00000000&center=true&vCenter=true&random=false&width=600&height=60&lines=🤖+Machine+Learning+%7C+Deep+Learning;👁️+Computer+Vision+%7C+NLP;🔐+AI+Ethics+%7C+Cybersecurity;🚀+Building+intelligent+systems...;📍+ENSA+Meknès+—+IATD3)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile Views + Social -->
+<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonprofil)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baocenacle80@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ange735)
@@ -94,12 +94,12 @@ class AngeBado:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ange735&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ange735&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ange735&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ange735&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ange735&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00BFFF&ring=00BFFF&fire=FF6F00&currStreakLabel=00BFFF&sideLabels=c9d1d9&dates=c9d1d9)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ange735&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -151,9 +151,7 @@ Passionné · Curieux · Déterminé
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ange735/Ange735/output/github-snake-dark.svg" />
 </picture>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:0d1b2a,100:000000&height=120&section=footer&animation=fadeIn"/>
+<br/><br/>
 
 ```
 [ ENSA Meknès · IATD3 · 2024/2025 ]  ·  "Training models, not just running them."
