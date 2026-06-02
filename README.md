@@ -1,16 +1,16 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<!-- Animated name banner — no external render service -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&pause=99999&color=00BFFF&center=true&vCenter=true&width=800&height=90&lines=Ange+Bado)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=46&pause=99999&color=00FF9C&center=true&vCenter=true&width=800&height=100&lines=Ange+Bado)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=900&color=00BFFF&center=true&vCenter=true&width=800&height=60&lines=%24+import+tensorflow+as+tf+%23+let's+go;🤖+Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+Computer+Vision;🧠+Neural+Networks+%E2%80%A2+NLP+%E2%80%A2+AI+Ethics;🚀+Building+intelligent+systems...;🔐+%26+exploring+cybersecurity+on+the+side)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=900&color=00FF9C&center=true&vCenter=true&width=800&height=70&lines=%24+initializing+neural+network...;%24+sudo+access+granted+%E2%9C%93;🤖+Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+CV;🔐+Ethical+Hacking+%E2%80%A2+Network+Security;🧠+Training+models.+Breaking+systems.+Learning.)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://img.shields.io/badge/MAIN-ARTIFICIAL%20INTELLIGENCE-00BFFF?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/SIDE-CYBERSECURITY-00ff9c?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://komarev.com/ghpvc/?username=Ange735&style=for-the-badge&color=00bfff&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/MAIN-AI%20%2F%20DEEP%20LEARNING-00BFFF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SIDE-CYBERSECURITY-ff0055?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=Ange735&style=for-the-badge&color=00ff9c&label=INTRUSIONS+DÉTECTÉES"/>
 
 <br/>
 
@@ -20,12 +20,15 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Neon%20Line.gif" width="100%"/>
 
-<!-- ===================== WHOAMI ===================== -->
+<!-- ====================== WHOAMI ====================== -->
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> `$ whoami --verbose`
 
 ```bash
-ange@ensa-meknes:~/ai$ ./whoami.sh
+┌──(ange㉿ensa-meknes)-[~/ai-sec]
+└─# whoami --verbose
 ```
 
 <table>
@@ -35,25 +38,21 @@ ange@ensa-meknes:~/ai$ ./whoami.sh
 ```python
 class AngeBado:
     def __init__(self):
-        self.name       = "Yipenè Ange Cenacle Bado"
-        self.role       = "AI Engineer in training 🤖"
-        self.school     = "ENSA Meknès — IATD3"
-        self.year       = "Cycle ingénieur · 2024/2025"
-        self.main_field = [
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "NLP"
-        ]
-        self.side_quest = "Cybersecurity & Ethical Hacking 🔐"
-        self.mission    = "Build intelligent systems that "  \
-                          "solve real-world problems 🌍"
+        self.name      = "Yipenè Ange Cenacle Bado"
+        self.role      = "AI Engineer // Sec Enthusiast"
+        self.school    = "ENSA Meknès — IATD3"
+        self.year      = "Cycle ingénieur · 2024/2025"
+        self.main      = ["Machine Learning", "Deep Learning",
+                          "Computer Vision", "NLP"]
+        self.side      = ["Ethical Hacking", "Network Sec",
+                          "Linux", "Pentest basics"]
+        self.mission   = "Build smart systems. Secure them. 🌍"
 
-    def run(self):
+    def execute(self):
         while True:
-            self.train_models()        # domaine principal
-            self.explore_security()    # passion parallèle
-            self.never_stop_learning() # toujours
+            self.train_models()        # domaine principal 🤖
+            self.explore_security()    # passion parallèle 🔐
+            self.never_stop_learning() # toujours 🚀
 ```
 
 </td>
@@ -61,17 +60,17 @@ class AngeBado:
 
 ```text
 ╔══════════════════════════╗
-║    FOCUS ALLOCATION      ║
+║    SYSTEM PROFILE        ║
 ╠══════════════════════════╣
-║ AI / ML   ███████░░  72% ║
-║ Deep L.   ██████░░░  60% ║
-║ Comp. V.  █████░░░░  52% ║
-║ Web Dev   ████░░░░░  45% ║
-║ Cybersec  ███░░░░░░  30% ║
+║ AI/ML     ████████░░ 80% ║
+║ Deep L.   ███████░░░ 72% ║
+║ Comp. V.  ██████░░░░ 60% ║
+║ Web Dev   █████░░░░░ 50% ║
+║ Cybersec  ███░░░░░░░ 30% ║
 ╠══════════════════════════╣
-║ STATUS : Learning 🧠     ║
-║ SCHOOL : ENSA Meknès     ║
-║ MODE   : Builder 🚀      ║
+║ UPTIME  : passionné ♾️   ║
+║ SCHOOL  : ENSA Meknès    ║
+║ MODE    : Builder 🚀     ║
 ╚══════════════════════════╝
 ```
 
@@ -79,12 +78,15 @@ class AngeBado:
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Neon%20Line.gif" width="100%"/>
 
-<!-- ===================== SKILLS : AI ===================== -->
+<!-- ====================== SKILLS ====================== -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> `$ ./arsenal --list-all`
+
 <div align="center">
 
-## 🤖 `cat /skills/ai.json` — *mon domaine principal*
+### 🤖 `--domain=AI` · *domaine principal*
 
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
@@ -100,49 +102,56 @@ class AngeBado:
 <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
 <img src="https://img.shields.io/badge/MATLAB-0d1117?style=for-the-badge&logo=mathworks&logoColor=0076A8"/>
 
-</div>
-
----
-
-<!-- ===================== SKILLS : SECURITY + DEV ===================== -->
-<div align="center">
-
-## 🔐 `cat /skills/security.sh` — *ma passion parallèle*
+### 🔐 `--domain=SECURITY` · *passion parallèle*
 
 <img src="https://img.shields.io/badge/Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
 <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
+<img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=2596CD"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
 <img src="https://img.shields.io/badge/HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
 <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
 <img src="https://img.shields.io/badge/Network%20Security-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/>
 
-## 🌐 `cat /skills/dev.json` — *outils annexes*
+### 🌐 `--domain=DEV` · *outils annexes*
 
 <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
 <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4"/>
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Neon%20Line.gif" width="100%"/>
 
-<!-- ===================== PROJECTS ===================== -->
+<!-- ====================== PROJECTS ====================== -->
 
-## 🗂️ `ls -la ./projects/`
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> `$ nmap -sV ./projects`
+
+```bash
+$ nmap -sV --open ange.projects
+Starting scan... discovering open ports
+
+PORT      STATE     SERVICE        VERSION
+443/ml    open      deep-learning  Python · TensorFlow · CV  [████░░░░] building
+80/web    open      library-mgmt   PHP · MySQL · CRUD complet          [LIVE ✓]
+22/sec    filtered  ethical-hack   Kali · HTB · Network basics         [learning]
+```
 
 | 🎯 Projet | ⚙️ Stack | 📝 Description | 🔗 |
 |-----------|----------|----------------|-----|
+| 📚 **Gestion Bibliothèque** | `PHP` `MySQL` `CRUD` | Gestion d'étudiants, livres & emprunts avec reçus téléchargeables | [→ GitHub](https://github.com/Ange735/gestion_de-_biblioth-que) |
 | 🤖 **ML / Deep Learning** | `Python` `TensorFlow` `OpenCV` | Modèles Deep Learning & Computer Vision *(domaine principal)* | `building...` |
-| 📚 **Gestion Bibliothèque** | `PHP` `MySQL` `CRUD` | Gestion complète d'étudiants, livres & emprunts avec reçus téléchargeables | [→ GitHub](https://github.com/Ange735/gestion_de-_biblioth-que) |
-| 🔐 **Lab Cybersécurité** | `Kali` `Bash` `HTB` | Pentest & exercices Hack The Box *(en parallèle)* | `learning...` |
+| 🔐 **Lab Cybersécurité** | `Kali` `Bash` `HTB` | Pentest & exercices Hack The Box | `learning...` |
 
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Neon%20Line.gif" width="100%"/>
 
-<!-- ===================== CURRENT FOCUS ===================== -->
+<!-- ====================== CURRENT FOCUS ====================== -->
 
-## ⚡ `top --processes` *· ce sur quoi je travaille*
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> `$ top --processes` *· ce sur quoi je travaille*
 
 ```text
 🧠  Deep Learning            ████████████░░░░  78%   [Active]
@@ -152,37 +161,46 @@ class AngeBado:
 🔐  Ethical Hacking          ████░░░░░░░░░░░░  28%   [Hobby]
 ```
 
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Neon%20Line.gif" width="100%"/>
 
-<!-- ===================== STATS ===================== -->
+<!-- ====================== STATS ====================== -->
+
+## <img src="https://media.giphy.com/media/dWdpEXkPb3VHKKVDfb/giphy.gif" width="28"> `$ htop --user=Ange735`
+
 <div align="center">
 
-## 📊 `git log --stats`
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ange735&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&cache_seconds=1800"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ange735&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&langs_count=8&cache_seconds=1800"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ange735&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff&cache_seconds=1800"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ange735&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=ffffff&langs_count=8&cache_seconds=1800"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ange735&theme=tokyonight&hide_border=true&background=0d1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ange735&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9c&fire=ff0055&currStreakLabel=00ff9c&sideLabels=ffffff&dates=8b949e"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ange735&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&area_color=00BFFF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ange735&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ff0055&area=true"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ange735&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ange735&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8"/>
 
-<br/>
+</div>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Neon%20Line.gif" width="100%"/>
+
+<!-- ====================== QUOTE ====================== -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> `$ cat ./quote.txt`
+
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Neon%20Line.gif" width="100%"/>
 
-<!-- ===================== SNAKE ===================== -->
+<!-- ====================== SNAKE ====================== -->
 <div align="center">
 
 <picture>
@@ -193,22 +211,23 @@ class AngeBado:
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Neon%20Line.gif" width="100%"/>
 
-<!-- ===================== CONTACT ===================== -->
+<!-- ====================== CONTACT ====================== -->
 
-## 📡 `ping -c 1 ange.bado`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> `$ nc -lvnp 1337`
 
-```text
-PING ange.bado — réponse en cours...
+```bash
+$ nc -lvnp 1337
+listening on [any] 1337 ...
+connect received from collaborator/4242
 
-64 bytes: Toujours ouvert aux collaborations 🤝
-64 bytes: Projets IA · ML · CV · DL bienvenus 🤖
-64 bytes: Discussions cybersécurité & CTF aussi 🔐
-64 bytes: Open source & apprentissage continu 🌱
+[+] Toujours ouvert aux collaborations 🤝
+[+] Projets IA · ML · CV · DL bienvenus 🤖
+[+] Discussions cybersécurité & CTF 🔐
+[+] Open source & apprentissage continu 🌱
 
---- ange.bado statistics ---
-Passionné · Curieux · Déterminé  ·  0% packet loss
+[*] connection: ESTABLISHED · 0% packet loss
 ```
 
 <div align="center">
@@ -219,10 +238,10 @@ Passionné · Curieux · Déterminé  ·  0% packet loss
 <br/><br/>
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ENSA Meknès · IATD3 · 2024/2025
   "Training models, not just running them."
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </div>
