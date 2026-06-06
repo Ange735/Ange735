@@ -1,7 +1,7 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1E90FF,100:00BFFF&height=220&section=header&text=Ange%20Bado&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20ENSA%20Mekn%C3%A8s%20%E2%80%94%20IATD3&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1E90FF,100:00BFFF&height=220&section=header&text=Ange%20Bado&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20ENSAM%20Mekn%C3%A8s%20%E2%80%94%20IATD-SI&descAlignY=58&descSize=20" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=900&color=00BFFF&center=true&vCenter=true&width=800&height=70&lines=%24+initializing+neural+network...;%24+sudo+access+granted+%E2%9C%93;🤖+Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+CV;🔐+Ethical+Hacking+%E2%80%A2+Network+Security;🧠+Training+models.+Breaking+systems.+Learning.)](https://git.io/typing-svg)
 
