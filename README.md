@@ -27,7 +27,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> `$ whoami --verbose`
 
 ```bash
-┌──(ange㉿ensa-meknes)-[~/ai-sec]
+┌──(ange㉿ensam-meknes)-[~/ai-sec]
 └─# whoami --verbose
 ```
 
@@ -40,7 +40,7 @@ class AngeBado:
     def __init__(self):
         self.name      = "Yipenè Ange Cenacle Bado"
         self.role      = "AI Engineer // Sec Enthusiast"
-        self.school    = "ENSA Meknès — IATD3"
+        self.school    = "ENSAM Meknès — IATD-SI"
         self.year      = "Cycle ingénieur · 2024/2025"
         self.main      = ["Machine Learning", "Deep Learning",
                           "Computer Vision", "NLP"]
