@@ -104,17 +104,11 @@ class AngeBado:
 
 <img src="https://img.shields.io/badge/Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
 <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
 <img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=2596CD"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
-<img src="https://img.shields.io/badge/HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
-<img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
-<img src="https://img.shields.io/badge/Network%20Security-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/>
 
 ### 🌐 `--domain=DEV` · *outils annexes*
 
 <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
 <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4"/>
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
