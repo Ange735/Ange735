@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1E90FF,100:00BFFF&height=220&section=header&text=Ange%20Bado&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20ENSAM%20Mekn%C3%A8s%20%E2%80%94%20IATD-SI&descAlignY=58&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=900&color=00BFFF&center=true&vCenter=true&width=800&height=70&lines=%24+initializing+neural+network...;%24+sudo+access+granted+%E2%9C%93;🤖+Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+CV;🔐+Ethical+Hacking+%E2%80%A2+Network+Security;🧠+Training+models.+Breaking+systems.+Learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=900&color=00BFFF&center=true&vCenter=true&width=800&height=70&lines=%24+initializing+neural+network...;%24+sudo+access+granted+%E2%9C%93;🤖+Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+CV;🧠+Training+models.+Breaking+systems.+Learning.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -44,8 +44,6 @@ class AngeBado:
         self.year      = "Cycle ingénieur · 2024/2025"
         self.main      = ["Machine Learning", "Deep Learning",
                           "Computer Vision", "NLP"]
-        self.side      = ["Ethical Hacking", "Network Sec",
-                          "Linux", "Pentest basics"]
         self.mission   = "Build smart systems. Secure them. 🌍"
 
     def execute(self):
@@ -66,10 +64,10 @@ class AngeBado:
 ║ Deep L.   ███████░░░ 72% ║
 ║ Comp. V.  ██████░░░░ 60% ║
 ║ Web Dev   █████░░░░░ 50% ║
-║ Cybersec  ███░░░░░░░ 30% ║
+║ Cybersec  █░░░░░░░░░ 30% ║
 ╠══════════════════════════╣
 ║ UPTIME  : passionné ♾️   ║
-║ SCHOOL  : ENSA Meknès    ║
+║ SCHOOL  : ENSAM Meknès    ║
 ║ MODE    : Builder 🚀     ║
 ╚══════════════════════════╝
 ```
@@ -137,15 +135,14 @@ Starting scan... discovering open ports
 
 PORT      STATE     SERVICE        VERSION
 443/ml    open      deep-learning  Python · TensorFlow · CV  [████░░░░] building
-80/web    open      library-mgmt   PHP · MySQL · CRUD complet          [LIVE ✓]
-22/sec    filtered  ethical-hack   Kali · HTB · Network basics         [learning]
+80/web    open      library-mgmt   PHP · MySQL · CRUD complet          
+
 ```
 
 | 🎯 Projet | ⚙️ Stack | 📝 Description | 🔗 |
 |-----------|----------|----------------|-----|
 | 📚 **Gestion Bibliothèque** | `PHP` `MySQL` `CRUD` | Gestion d'étudiants, livres & emprunts avec reçus téléchargeables | [→ GitHub](https://github.com/Ange735/gestion_de-_biblioth-que) |
 | 🤖 **ML / Deep Learning** | `Python` `TensorFlow` `OpenCV` | Modèles Deep Learning & Computer Vision *(domaine principal)* | `building...` |
-| 🔐 **Lab Cybersécurité** | `Kali` `Bash` `HTB` | Pentest & exercices Hack The Box | `learning...` |
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Neon%20Line.gif" width="100%"/>
 
@@ -158,7 +155,7 @@ PORT      STATE     SERVICE        VERSION
 👁️  Computer Vision          ██████████░░░░░░  64%   [Active]
 💬  NLP / Transformers       ████████░░░░░░░░  48%   [Learning]
 🌱  Spring Boot / REST API   ███████░░░░░░░░░  45%   [Active]
-🔐  Ethical Hacking          ████░░░░░░░░░░░░  28%   [Hobby]
+🔐  Ethical Hacking          █░░░░░░░░░░░░░░░  15%   [Hobby]
 ```
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Neon%20Line.gif" width="100%"/>
@@ -239,7 +236,7 @@ connect received from collaborator/4242
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ENSA Meknès · IATD3 · 2024/2025
+  ENSAM Meknès · IATD · 2025/2028
   "Training models, not just running them."
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
