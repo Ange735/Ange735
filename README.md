@@ -133,11 +133,6 @@ Parcours **Ethical Hacking & Sécurité Offensive** de GO AI ACADEMY *(en cours)
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ange735&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=1E90FF&icon_color=00BFFF&text_color=ffffff&cache_seconds=1800"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ange735&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1E90FF&text_color=ffffff&langs_count=8&cache_seconds=1800"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Ange735&theme=tokyonight&hide_border=true&background=0d1117&ring=1E90FF&fire=00BFFF&currStreakLabel=1E90FF"/>
-
 </div>
 
 <div align="center">
