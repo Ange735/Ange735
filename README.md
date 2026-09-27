@@ -1,197 +1,145 @@
-<!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1E90FF,100:00BFFF&height=220&section=header&text=Ange%20Bado&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20ENSAM%20Mekn%C3%A8s%20%E2%80%94%20IATD-SI&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1E90FF,100:00BFFF&height=200&section=header&text=Ange%20Bado&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%40%20GO%20AI%20CORP%20%C2%B7%20%C3%89l%C3%A8ve%20ing%C3%A9nieur%20Data%20Science%20%26%20IA%20%40%20ENSAM%20Mekn%C3%A8s&descAlignY=58&descSize=17" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=900&color=00BFFF&center=true&vCenter=true&width=800&height=70&lines=%24+initializing+neural+network...;%24+sudo+access+granted+%E2%9C%93;🤖+Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+CV;🧠+Training+models.+Breaking+systems.+Learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1000&color=1E90FF&center=true&vCenter=true&width=760&height=50&lines=LLM+%C2%B7+RAG+%C2%B7+Extraction+structur%C3%A9e+de+documents;Machine+Learning+%C2%B7+Computer+Vision+%C2%B7+NLP;Scraping+%C2%B7+OCR+%C2%B7+Pipelines+de+donn%C3%A9es)](https://git.io/typing-svg)
 
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/MAIN-AI%20%2F%20DEEP%20LEARNING-00BFFF?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/SIDE-CYBERSECURITY-ff0055?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://komarev.com/ghpvc/?username=Ange735&style=for-the-badge&color=00ff9c&label=INTRUSIONS+DÉTECTÉES"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/tonprofil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:baocenacle80@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Ange735"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ange-bado"><img src="https://img.shields.io/badge/LinkedIn-ange--bado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:baocenacle80@gmail.com"><img src="https://img.shields.io/badge/Email-baocenacle80@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Mekn%C3%A8s-Maroc-2E5EAA?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Neon%20Line.gif" width="100%"/>
+## À propos
 
-<!-- ====================== WHOAMI ====================== -->
+Je suis **AI/ML Engineer chez GO AI CORP** depuis juillet 2026 et élève ingénieur en **Data Science & Intelligence Artificielle** à l'ENSAM Meknès (2ᵉ année du cycle ingénieur, Bac+4 en cours).
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> `$ whoami --verbose`
+Je construis des systèmes d'IA qui transforment des données brutes et des documents en décisions : collecte de données à grande échelle, OCR, extraction d'informations par LLM, RAG, et modèles de Machine Learning, de la préparation des données jusqu'à l'évaluation.
 
-```bash
-┌──(ange㉿ensam-meknes)-[~/ai-sec]
-└─# whoami --verbose
-```
+- 🏆 **1er prix**, Compétition Data IA, GO AI ACADEMY (2025)
+- 📜 Machine Learning Specialization (Stanford / Coursera), Mathematics for ML & Data Science (DeepLearning.AI)
 
-<table>
-<tr>
-<td width="60%" valign="top">
+## Expérience
 
-```python
-class AngeBado:
-    def __init__(self):
-        self.name      = "Yipenè Ange Cenacle Bado"
-        self.role      = "AI Engineer // Sec Enthusiast"
-        self.school    = "ENSAM Meknès — IATD-SI"
-        self.year      = "Cycle ingénieur · 2024/2025"
-        self.main      = ["Machine Learning", "Deep Learning",
-                          "Computer Vision", "NLP"]
-        self.mission   = "Build smart systems. Secure them. 🌍"
+### AI/ML Engineer · GO AI CORP · *juillet 2026, en poste*
 
-    def execute(self):
-        while True:
-            self.train_models()        # domaine principal 🤖
-            self.explore_security()    # passion parallèle 🔐
-            self.never_stop_learning() # toujours 🚀
-```
+**AFRIKOPPS**, plateforme multi-pays d'intelligence économique qui collecte et analyse les appels d'offres, les offres d'emploi et les stages en Afrique *(dépôt privé)*.
 
-</td>
-<td width="40%" valign="top">
+- **Collecte de données** : plus de 20 sources de scraping (portails ARCOP, ARMP, DGCMEF, UEMOA, BCEAO...), extraction des résultats d'attribution des marchés publics.
+- **Qualité des données** : dédoublonnage par double empreinte SHA-256, gazetteers de normalisation géographique, classification sectorielle.
+- **OCR et Document Intelligence** : repli OCR (Tesseract) sur les avis scannés, analyse des dossiers de soumission, détection des signatures et des cachets.
+- **Moteur de conformité (LLM)** : *Requirement Extractor* qui extrait les critères d'un dossier d'appel d'offres sous forme structurée, avec un jeu de référence pour mesurer la qualité de l'extraction.
+- **Backend** : architecture multi-tenant, bus d'événements Redis Streams, files Celery, migrations Alembic.
 
-```text
-╔══════════════════════════╗
-║    SYSTEM PROFILE        ║
-╠══════════════════════════╣
-║ AI/ML     ████████░░ 80% ║
-║ Deep L.   ███████░░░ 72% ║
-║ Comp. V.  ██████░░░░ 60% ║
-║ Web Dev   █████░░░░░ 50% ║
-║ Cybersec  █░░░░░░░░░ 30% ║
-╠══════════════════════════╣
-║ UPTIME  : passionné ♾️   ║
-║ SCHOOL  : ENSAM Meknès    ║
-║ MODE    : Builder 🚀     ║
-╚══════════════════════════╝
-```
+`Python` `FastAPI` `Celery` `Redis` `PostgreSQL` `SQLAlchemy` `Docker` `Tesseract` `LLM` `Next.js`
 
-</td>
-</tr>
-</table>
+## Projets à la une
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Neon%20Line.gif" width="100%"/>
+| Projet | Description | Stack |
+|---|---|---|
+| 🏥 [**SEHHA**](https://github.com/Ange735/sehha) | Moteur IA de triage médical (Youth Nexus Cyber AI Challenge) : agent conversationnel qui mène l'entretien clinique, triage CCMU 1 à 5 appuyé sur un RAG de protocoles médicaux, bascule LLM cloud / local. | `FastAPI` `LLM` `ChromaDB` `Groq` `Ollama` |
+| 💸 [**Fraude Mobile Money**](https://github.com/Ange735/mobile-money-fraude-kmeans) | Détection non supervisée de fraudes rares (< 2 %) sur 8 130 transactions : feature engineering, K-means, score d'anomalie et règles d'alerte explicables. | `scikit-learn` `Pandas` |
+| 🦯 [**Smart Blind Assistant**](https://github.com/Ange735/Smart_Blind_Assistant) | Application mobile d'assistance pour personnes malvoyantes : détection d'objets et d'obstacles, description vocale, commandes vocales. | `Flutter` `FastAPI` `YOLO` `STT/TTS` |
+| 🏛️ [**Visual RAG Tourisme Maroc**](https://github.com/Ange735/visual-rag-tourisme-maroc) | Reconnaissance de monuments marocains par CLIP et génération d'une fiche touristique par un LLM local. | `CLIP` `ChromaDB` `Ollama` |
+| 🚑 [**Prédiction des passages aux urgences**](https://github.com/Ange735/Prediction_PassageAuxUrgences) | Prévision du flux journalier de patients de l'Hôpital Mohammed V de Meknès sur données réelles. | `ARIMA` `Prophet` `LSTM` |
+| ✋ [**Hand Shape Manipulator**](https://github.com/Ange735/hand-shape-manipulator) | Manipulation de formes géométriques avec les doigts via la webcam. | `OpenCV` `MediaPipe` |
 
-<!-- ====================== SKILLS ====================== -->
+<details>
+<summary><b>Travaux pratiques et labs</b></summary>
+<br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> `$ ./arsenal --list-all`
+- [machine-learning-tps](https://github.com/Ange735/machine-learning-tps) : régression, arbres, random forest, SVR, clustering, boosting (from scratch + scikit-learn)
+- [time-series-labs](https://github.com/Ange735/time-series-labs) : ARIMA, auto-ARIMA, prévision de consommation électrique (LSTM, CNN-LSTM)
+- [nlp-labs](https://github.com/Ange735/nlp-labs) : tokenisation, détection de sarcasme, analyse de sentiment en français avec dashboard Flask
+- [computer-vision-tps](https://github.com/Ange735/computer-vision-tps) : prétraitement OpenCV, MediaPipe, détection de couleurs
+- [roboflow-streamlit-apps](https://github.com/Ange735/roboflow-streamlit-apps) : détection et classification d'objets avec Roboflow et Streamlit
+- [java-poo-tps](https://github.com/Ange735/java-poo-tps) : programmation orientée objet en Java
+
+</details>
+
+## Cybersécurité
+
+Parcours **Ethical Hacking & Sécurité Offensive** de GO AI ACADEMY *(en cours)*, avec un cas pratique à chaque séance, toujours dans un cadre mandaté et légal.
+
+- **Réseau et analyse de trafic** : TCP/IP, DNS, TLS/HTTPS (SSL stripping, HSTS), reconnaissance avec nmap, dig et whois, analyse Wireshark d'un cas d'exfiltration réel (265 000 paquets) et extraction d'IoC.
+- **Interception et défense réseau** : empoisonnement ARP et détournement de session en lab, VPN et Zero Trust, NGFW/IDS/IPS, honeypot et Threat Intelligence.
+- **OSINT** : reconnaissance passive et active, métadonnées EXIF, Shodan et Censys, rédaction de rapports d'investigation.
+- **Exploitation et post-exploitation** : Metasploit, msfvenom, Meterpreter, escalade de privilèges sur services vulnérables (FTP, SMB, HTTP, Telnet).
+- **Sécurité Web et API (OWASP)** : Burp Suite, injection SQL (manuelle et sqlmap), XSS, SSRF, CSRF, contrôle d'accès, attaques REST/GraphQL (BOLA, mass assignment), avec un correctif *secure coding* pour chaque faille.
+- **Méthode** : documentation rigoureuse des preuves (fiches IoC, chaîne de preuve), cadre juridique (UEMOA, conventions de Malabo et de Budapest), lab virtualisé isolé.
+
+## Compétences
 
 <div align="center">
 
-### 🤖 `--domain=AI` · *domaine principal*
+**IA, Machine Learning et Deep Learning**<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Optuna-2C5BB4?style=flat-square"/>
+<img src="https://img.shields.io/badge/statsmodels-4051B5?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=D00000"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-<br/>
-<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
-<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=3F4F75"/>
-<img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
-<img src="https://img.shields.io/badge/MATLAB-0d1117?style=for-the-badge&logo=mathworks&logoColor=0076A8"/>
+**LLM, NLP et RAG**<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sentence--Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
 
-### 🔐 `--domain=SECURITY` · *passion parallèle*
+**Computer Vision et documents**<br/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tesseract%20OCR-3C8DBC?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=2596CD"/>
+**Données, backend et outils**<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
-### 🌐 `--domain=DEV` · *outils annexes*
+**Cybersécurité**<br/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/sqlmap-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4"/>
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+**Autres langages**<br/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Neon%20Line.gif" width="100%"/>
-
-<!-- ====================== PROJECTS ====================== -->
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> `$ nmap -sV ./projects`
-
-```bash
-$ nmap -sV --open ange.projects
-Starting scan... discovering open ports
-
-PORT      STATE     SERVICE        VERSION
-443/ml    open      deep-learning  Python · TensorFlow · CV  [████░░░░] building
-80/web    open      library-mgmt   PHP · MySQL · CRUD complet          
-
-```
-
-| 🎯 Projet | ⚙️ Stack | 📝 Description | 🔗 |
-|-----------|----------|----------------|-----|
-| 📚 **Gestion Bibliothèque** | `PHP` `MySQL` `CRUD` | Gestion d'étudiants, livres & emprunts avec reçus téléchargeables | [→ GitHub](https://github.com/Ange735/gestion_de-_biblioth-que) |
-| 🤖 **ML / Deep Learning** | `Python` `TensorFlow` `OpenCV` | Modèles Deep Learning & Computer Vision *(domaine principal)* | `building...` |
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Neon%20Line.gif" width="100%"/>
-
-<!-- ====================== CURRENT FOCUS ====================== -->
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> `$ top --processes` *· ce sur quoi je travaille*
-
-```text
-🧠  Deep Learning            ████████████░░░░  78%   [Active]
-👁️  Computer Vision          ██████████░░░░░░  64%   [Active]
-💬  NLP / Transformers       ████████░░░░░░░░  48%   [Learning]
-🌱  Spring Boot / REST API   ███████░░░░░░░░░  45%   [Active]
-🔐  Ethical Hacking          █░░░░░░░░░░░░░░░  15%   [Hobby]
-```
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Neon%20Line.gif" width="100%"/>
-
-<!-- ====================== STATS ====================== -->
-
-## <img src="https://media.giphy.com/media/dWdpEXkPb3VHKKVDfb/giphy.gif" width="28"> `$ htop --user=Ange735`
+## Statistiques GitHub
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ange735&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff&cache_seconds=1800"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ange735&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=ffffff&langs_count=8&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ange735&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=1E90FF&icon_color=00BFFF&text_color=ffffff&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ange735&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1E90FF&text_color=ffffff&langs_count=8&cache_seconds=1800"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ange735&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9c&fire=ff0055&currStreakLabel=00ff9c&sideLabels=ffffff&dates=8b949e"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ange735&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ff0055&area=true"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ange735&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+<img src="https://streak-stats.demolab.com/?user=Ange735&theme=tokyonight&hide_border=true&background=0d1117&ring=1E90FF&fire=00BFFF&currStreakLabel=1E90FF"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Neon%20Line.gif" width="100%"/>
-
-<!-- ====================== QUOTE ====================== -->
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> `$ cat ./quote.txt`
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Neon%20Line.gif" width="100%"/>
-
-<!-- ====================== SNAKE ====================== -->
 <div align="center">
 
 <picture>
@@ -200,41 +148,11 @@ PORT      STATE     SERVICE        VERSION
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Ange735/Ange735/output/github-snake-dark.svg"/>
 </picture>
 
-</div>
+<br/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Neon%20Line.gif" width="100%"/>
+*Ouvert aux collaborations sur des projets IA, ML, LLM et Computer Vision.*<br/>
+<a href="https://www.linkedin.com/in/ange-bado">LinkedIn</a> · <a href="mailto:baocenacle80@gmail.com">Email</a>
 
-<!-- ====================== CONTACT ====================== -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> `$ nc -lvnp 1337`
-
-```bash
-$ nc -lvnp 1337
-listening on [any] 1337 ...
-connect received from collaborator/4242
-
-[+] Toujours ouvert aux collaborations 🤝
-[+] Projets IA · ML · CV · DL bienvenus 🤖
-[+] Discussions cybersécurité & CTF 🔐
-[+] Open source & apprentissage continu 🌱
-
-[*] connection: ESTABLISHED · 0% packet loss
-```
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/tonprofil"><img src="https://img.shields.io/badge/Me%20contacter%20→%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:baocenacle80@gmail.com"><img src="https://img.shields.io/badge/M'écrire%20→%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ENSAM Meknès · IATD · 2025/2028
-  "Training models, not just running them."
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:1E90FF,100:0A2540&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:1E90FF,100:0A2540&height=110&section=footer" width="100%"/>
 
 </div>
