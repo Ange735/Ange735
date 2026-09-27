@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1E90FF,100:00BFFF&height=200&section=header&text=Ange%20Bado&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%40%20GO%20AI%20CORP%20%C2%B7%20%C3%89l%C3%A8ve%20ing%C3%A9nieur%20Data%20Science%20%26%20IA%20%40%20ENSAM%20Mekn%C3%A8s&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1E90FF,100:00BFFF&height=200&section=header&text=Ange%20Bado&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%40%20GO%20AI%20CORP%20%C2%B7%20%C3%89l%C3%A8ve%20ing%C3%A9nieur%20Data%20Science%20et%20IA%20%40%20ENSAM%20Mekn%C3%A8s&descAlignY=58&descSize=17" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1000&color=1E90FF&center=true&vCenter=true&width=760&height=50&lines=LLM+%C2%B7+RAG+%C2%B7+Extraction+structur%C3%A9e+de+documents;Machine+Learning+%C2%B7+Computer+Vision+%C2%B7+NLP;Scraping+%C2%B7+OCR+%C2%B7+Pipelines+de+donn%C3%A9es)](https://git.io/typing-svg)
 
