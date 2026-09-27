@@ -8,11 +8,18 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@v0.12.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Ange735
-          BRANCH_NAME: profile-cards
           THEME: tokyonight
           UTC_OFFSET: 1
+          AUTO_PUSH: false
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: profile-cards
+          build_dir: profile-summary-card-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
