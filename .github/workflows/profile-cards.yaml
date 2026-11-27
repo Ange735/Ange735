@@ -17,6 +17,16 @@ jobs:
           THEME: tokyonight
           UTC_OFFSET: 1
           AUTO_PUSH: false
+      - name: Apply NeonTerminal palette
+        run: |
+          cd profile-summary-card-output
+          sudo rm -rf neon && sudo cp -r tokyonight neon
+          sudo sed -i \
+            -e 's/#1a1b27/#070B09/Ig' \
+            -e 's/#70a5fd/#00E676/Ig' \
+            -e 's/#38bdae/#C8F5DA/Ig' \
+            -e 's/#bf91f3/#00D9FF/Ig' \
+            neon/*.svg
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: profile-cards

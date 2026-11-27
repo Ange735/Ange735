@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1E90FF,100:00BFFF&height=200&section=header&text=Ange%20Bado&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%40%20GO%20AI%20CORP%20%C2%B7%20%C3%89l%C3%A8ve%20ing%C3%A9nieur%20Data%20Science%20et%20IA%20%40%20ENSAM%20Mekn%C3%A8s&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B09,55:0B3D24,100:00D9FF&height=200&section=header&text=Ange%20Bado&fontSize=64&fontColor=00E676&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%40%20GO%20AI%20CORP%20%C2%B7%20%C3%89l%C3%A8ve%20ing%C3%A9nieur%20Data%20Science%20et%20IA%20%40%20ENSAM%20Mekn%C3%A8s&descAlignY=58&descSize=17" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1000&color=1E90FF&center=true&vCenter=true&width=760&height=50&lines=LLM+%C2%B7+RAG+%C2%B7+Extraction+structur%C3%A9e+de+documents;Machine+Learning+%C2%B7+Computer+Vision+%C2%B7+NLP;Scraping+%C2%B7+OCR+%C2%B7+Pipelines+de+donn%C3%A9es)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1000&color=00E676&center=true&vCenter=true&width=760&height=50&lines=LLM+%C2%B7+RAG+%C2%B7+Extraction+structur%C3%A9e+de+documents;Machine+Learning+%C2%B7+Computer+Vision+%C2%B7+NLP;Scraping+%C2%B7+OCR+%C2%B7+Pipelines+de+donn%C3%A9es)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/ange-bado"><img src="https://img.shields.io/badge/LinkedIn-ange--bado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:baocenacle80@gmail.com"><img src="https://img.shields.io/badge/Email-baocenacle80@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Mekn%C3%A8s-Maroc-2E5EAA?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+`> AI · DATA · CYBER`
+
+<a href="https://www.linkedin.com/in/ange-bado"><img src="https://img.shields.io/badge/LinkedIn-ange--bado-00E676?style=for-the-badge&logo=linkedin&logoColor=00E676&labelColor=0B110E"/></a>
+<a href="mailto:baocenacle80@gmail.com"><img src="https://img.shields.io/badge/Email-baocenacle80@gmail.com-00E676?style=for-the-badge&logo=gmail&logoColor=00E676&labelColor=0B110E"/></a>
+<img src="https://img.shields.io/badge/Mekn%C3%A8s-Maroc-00E676?style=for-the-badge&logo=googlemaps&logoColor=00E676&labelColor=0B110E"/>
 
 </div>
 
@@ -73,57 +75,57 @@ Parcours **Ethical Hacking & Sécurité Offensive** de GO AI ACADEMY *(en cours)
 <div align="center">
 
 **IA, Machine Learning et Deep Learning**<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Optuna-2C5BB4?style=flat-square"/>
-<img src="https://img.shields.io/badge/statsmodels-4051B5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-0F2A1C?style=flat-square&logo=python&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/scikit--learn-0F2A1C?style=flat-square&logo=scikitlearn&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/TensorFlow-0F2A1C?style=flat-square&logo=tensorflow&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Keras-0F2A1C?style=flat-square&logo=keras&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-0F2A1C?style=flat-square&logo=huggingface&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Optuna-0F2A1C?style=flat-square"/>
+<img src="https://img.shields.io/badge/statsmodels-0F2A1C?style=flat-square"/>
 
 **LLM, NLP et RAG**<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sentence--Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-0F2A1C?style=flat-square&logo=langchain&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/CrewAI-0F2A1C?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-0F2A1C?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-0F2A1C?style=flat-square&logo=meta&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Sentence--Transformers-0F2A1C?style=flat-square&logo=huggingface&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/spaCy-0F2A1C?style=flat-square&logo=spacy&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Ollama-0F2A1C?style=flat-square&logo=ollama&logoColor=00E676"/>
 
 **Computer Vision et documents**<br/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tesseract%20OCR-3C8DBC?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-0F2A1C?style=flat-square&logo=opencv&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/YOLO-0F2A1C?style=flat-square&logo=yolo&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/MediaPipe-0F2A1C?style=flat-square&logo=mediapipe&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Tesseract%20OCR-0F2A1C?style=flat-square"/>
 
 **Données, backend et outils**<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-0F2A1C?style=flat-square&logo=pandas&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/NumPy-0F2A1C?style=flat-square&logo=numpy&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/FastAPI-0F2A1C?style=flat-square&logo=fastapi&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Celery-0F2A1C?style=flat-square&logo=celery&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Redis-0F2A1C?style=flat-square&logo=redis&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0F2A1C?style=flat-square&logo=postgresql&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-0F2A1C?style=flat-square&logo=sqlalchemy&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Docker-0F2A1C?style=flat-square&logo=docker&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Git-0F2A1C?style=flat-square&logo=git&logoColor=00E676"/>
 
 **Cybersécurité**<br/>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/sqlmap-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-0F2A1C?style=flat-square&logo=kalilinux&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Wireshark-0F2A1C?style=flat-square&logo=wireshark&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Nmap-0F2A1C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Metasploit-0F2A1C?style=flat-square&logo=metasploit&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-0F2A1C?style=flat-square&logo=burpsuite&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/sqlmap-0F2A1C?style=flat-square"/>
+<img src="https://img.shields.io/badge/OWASP-0F2A1C?style=flat-square&logo=owasp&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Linux-0F2A1C?style=flat-square&logo=linux&logoColor=00E676"/>
 
 **Autres langages**<br/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-0F2A1C?style=flat-square&logo=r&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Java-0F2A1C?style=flat-square&logo=openjdk&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/C-0F2A1C?style=flat-square&logo=c&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/SQL-0F2A1C?style=flat-square&logo=mysql&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/PHP-0F2A1C?style=flat-square&logo=php&logoColor=00E676"/>
+<img src="https://img.shields.io/badge/Flutter-0F2A1C?style=flat-square&logo=flutter&logoColor=00E676"/>
 
 </div>
 
@@ -131,10 +133,10 @@ Parcours **Ethical Hacking & Sécurité Offensive** de GO AI ACADEMY *(en cours)
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ange735/Ange735/profile-cards/tokyonight/0-profile-details.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ange735/Ange735/profile-cards/neon/0-profile-details.svg" width="100%"/>
 <br/>
-<img src="https://raw.githubusercontent.com/Ange735/Ange735/profile-cards/tokyonight/3-stats.svg" width="49%"/>
-<img src="https://raw.githubusercontent.com/Ange735/Ange735/profile-cards/tokyonight/2-most-commit-language.svg" width="49%"/>
+<img src="https://raw.githubusercontent.com/Ange735/Ange735/profile-cards/neon/3-stats.svg" width="49%"/>
+<img src="https://raw.githubusercontent.com/Ange735/Ange735/profile-cards/neon/2-most-commit-language.svg" width="49%"/>
 </div>
 
 <div align="center">
@@ -150,6 +152,6 @@ Parcours **Ethical Hacking & Sécurité Offensive** de GO AI ACADEMY *(en cours)
 *Ouvert aux collaborations sur des projets IA, ML, LLM et Computer Vision.*<br/>
 <a href="https://www.linkedin.com/in/ange-bado">LinkedIn</a> · <a href="mailto:baocenacle80@gmail.com">Email</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:1E90FF,100:0A2540&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,45:0B3D24,100:070B09&height=110&section=footer" width="100%"/>
 
 </div>

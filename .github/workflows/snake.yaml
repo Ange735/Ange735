@@ -11,7 +11,7 @@ jobs:
           github_user_name: Ange735
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00E676&color_dots=#0B110E,#0B3D24,#00804A,#00B85E,#00E676
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
